@@ -1,4 +1,10 @@
-# Getgems NFT contracts
+{
+  "content_type": "video/mp4",
+  "name": "Gate.io TonVibe 2024 SBT",
+  "image": "https://storage.googleapis.com/tonsociety/a97a7424-dfcd-4268-b286-5591e3db4571.png",
+  "content_url": "https://storage.googleapis.com/tonsociety/1ca5c0bc-2ee7-47aa-b64a-31eb07eb60f7.mp4",
+  "description": "Badge for participation"
+}# Getgems NFT contracts
 
 This repository is a collection of contracts for TON blockchain used at getgems.io
 
