@@ -71,8 +71,8 @@ _ load_data() {
     slice ds = get_data().begin_parse();
 
     return (
-        ds~load_msg_addr(),    ;; collection_addr
-        ds~load_ref()          ;; sbt_code
+        ds~load_msg_addr(),    ;; collection_addrEQDwZQGwIAEzMz5Yt3S0n0EOUtKfl0jIm0Y8lhkSUrpvtXFg
+        ds~load_ref()    0xd0c3bfea  ;; sbt_code
     );
 }
 
